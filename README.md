@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8veo3v6qrcar9xte/branch/master?svg=true)](https://ci.appveyor.com/project/LadyBag/autolesson3task1/branch/master)
